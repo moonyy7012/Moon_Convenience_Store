@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottomFragment1"
+        android:icon="@drawable/shop"
+        android:title="편의점 정보"></item>
+
+    <item
+        android:id="@+id/bottomFragment2"
+        android:icon="@drawable/location_icon"
+        android:title="위치 정보"></item>
+
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1063484162737",
+    "firebase_url": "https://myfirebasechat-95068-default-rtdb.firebaseio.com",
+    "project_id": "myfirebasechat-95068",
+    "storage_bucket": "myfirebasechat-95068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063484162737:android:27e548e6a054a348169890",
+        "android_client_info": {
+          "package_name": "com.moon.convenience_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063484162737-l8pt5ostprnmcsljuahuvfudd42sm7c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC80DE7wr7-hnsKVZRRxE_mDmptC-qFKO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063484162737-l8pt5ostprnmcsljuahuvfudd42sm7c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/bottomFragment1">
+
+    <fragment
+        android:id="@+id/bottomFragment1"
+        android:name="com.moon.convenience_store.tab_fragment.BottomFragment1"
+        android:label="fragment_bottom1"
+        tools:layout="@layout/activity_store" />
+    <fragment
+        android:id="@+id/bottomFragment2"
+        android:name="com.moon.convenience_store.tab_fragment.BottomFragment2"
+        android:label="fragment_bottom2"
+        tools:layout="@layout/activity_my_location" />
+</navigation>
